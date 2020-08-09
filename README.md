@@ -15,4 +15,6 @@ Data Cleaning
 <br>
 Stock Market Analysis
 <br>
+APIs
+<br>
 Machine learning Algorithms
