@@ -1,5 +1,5 @@
 # Several-Jupyter-Notebooks
-Jupyter Notebooks with diffent purposes like:
+Jupyter Notebooks with different purposes like:
 <br>
 Social Network WebScrapping
 <br>
